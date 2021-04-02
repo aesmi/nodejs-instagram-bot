@@ -1,1 +1,3 @@
 node_modules/
+#ignores all .env files
+*.env
